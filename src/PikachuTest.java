@@ -10,5 +10,12 @@ public class PikachuTest {
     @Test
     public void testMakePikachu() throws Exception {
         assertEquals(" (\\__/)\n (o^.^)\nz(_(“)(“)", Pikachu.makePikachu());
+   
+    
+    
+    
+    
+    
+    
     }
 }
